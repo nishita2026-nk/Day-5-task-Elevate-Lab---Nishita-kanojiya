@@ -2,7 +2,7 @@
 
 The objective of this task is to understand and implement **Decision Tree** and **Random Forest** models for classification. The project also focuses on tree visualization, overfitting analysis, feature importance, model comparison, and cross-validation.
 
-## 🎯 Objectives
+## Objectives
 
 - Train a Decision Tree Classifier
 - Visualize the Decision Tree
@@ -13,7 +13,7 @@ The objective of this task is to understand and implement **Decision Tree** and 
 - Interpret feature importance
 - Evaluate models using cross-validation
 
-## 📊 Dataset
+## Dataset
 
 **Dataset:** Heart Disease Dataset
 
@@ -30,7 +30,7 @@ The target variable is:
 dataset/heart.csv
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ dataset/heart.csv
 - Graphviz
 - Jupyter Notebook
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Day-5-task-Elevate-Lab---Nishita-kanojiya/
@@ -70,7 +70,7 @@ Day-5-task-Elevate-Lab---Nishita-kanojiya/
 └── .gitignore
 ```
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ```text
 Load Dataset
@@ -198,7 +198,7 @@ The generated graphs will be saved inside:
 outputs/
 ```
 
-## 📌 Key Learnings
+## Key Learnings
 
 Through this task, I learned:
 
